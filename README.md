@@ -12,3 +12,7 @@ Classification_using_scikit-learn - Classification using scikit-learn. Various c
 Multiple_linear_regression - Experiment with multiple linear regression models to make predictions with numerical data. Exploring more systematic methods for feature selection and for optimizing model parameters (model selection).
 
 Automatic_document_clustering - Using Pandas and other modules from scikit-learn for preprocessing or evaluation. Perform clustering on the documents and comparing the clusters to the actual categories.
+
+Item_based_Recommendation - Using both standard item-based collaborative filtering (based on the rating prediction function "standEst") and the SVD-based version of the item-based CF (using "svdEst" as the prediction engine) to generate these recommendations for the users.
+
+PCA_and_Clustering - PCA to reduce dimensionality and noise in the data. Comapring the results of clustering the data with and without PCA.
