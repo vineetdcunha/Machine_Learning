@@ -16,3 +16,16 @@ Automatic_document_clustering - Using Pandas and other modules from scikit-learn
 Item_based_Recommendation - Using both standard item-based collaborative filtering (based on the rating prediction function "standEst") and the SVD-based version of the item-based CF (using "svdEst" as the prediction engine) to generate these recommendations for the users.
 
 PCA_and_Clustering - PCA to reduce dimensionality and noise in the data. Comapring the results of clustering the data with and without PCA.
+
+Final Project - Rent the Runway Recommender 
+
+Execute item based and user based collaborative filtering. Item based was created by finding the similarity in an item by item matrix, which then was able to make predictions and recommend. User based collaborative filtering was executed through Kmeans clustering.
+
+RentTheRunway_InitialAnalysis - Initial analysis
+
+RentTheRunway_item_user_als_recommender - Item based and user based recommendation.
+
+RentTheRunway_MatrixFactorization_2500Users - Matrix Factorization
+
+RentTheRunway_MatrixFactorization_DistinctUsers - Matrix Factorization
+
