@@ -1,4 +1,4 @@
-# Machine_Learning
+## Machine_Learning
 Machine learning models. Building own models as well as using scikit learn
 
 Data_preprocessing_analysis - General characteristics of the data as a whole: examine the means, standard deviations, and other statistics associated with the numerical attributes and distributions of values associated with categorical attributes.
@@ -17,7 +17,7 @@ Item_based_Recommendation - Using both standard item-based collaborative filteri
 
 PCA_and_Clustering - PCA to reduce dimensionality and noise in the data. Comapring the results of clustering the data with and without PCA.
 
-## Final Project - Rent the Runway Recommender 
+### Final Project - Rent the Runway Recommender 
 
 Execute item based and user based collaborative filtering. Item based was created by finding the similarity in an item by item matrix, which then was able to make predictions and recommend. User based collaborative filtering was executed through Kmeans clustering.
 
