@@ -17,7 +17,7 @@ Item_based_Recommendation - Using both standard item-based collaborative filteri
 
 PCA_and_Clustering - PCA to reduce dimensionality and noise in the data. Comapring the results of clustering the data with and without PCA.
 
-Final Project - Rent the Runway Recommender 
+## Final Project - Rent the Runway Recommender 
 
 Execute item based and user based collaborative filtering. Item based was created by finding the similarity in an item by item matrix, which then was able to make predictions and recommend. User based collaborative filtering was executed through Kmeans clustering.
 
