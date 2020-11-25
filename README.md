@@ -5,8 +5,10 @@ Data_preprocessing_analysis - General characteristics of the data as a whole: ex
 
 KNN_without_scikit - Without scikit functions creating own KNN classifer. Parameter input to use various distance methods.
 
-Data_Analysis_Predictive_Modeling_Census_data - Data Analysis and Predictive Modeling on Census data. Scikit-learn to build classifiers usinng Naive Bayes (Gaussian), decision tree (using "gini" as selection criteria), and linear discriminant analysis (LDA)
+Data_analysis_Predictive_modeling_Census_data - Data Analysis and Predictive Modeling on Census data. Scikit-learn to build classifiers usinng Naive Bayes (Gaussian), decision tree (using "gini" as selection criteria), and linear discriminant analysis (LDA)
 
 Classification_using_scikit-learn - Classification using scikit-learn. Various classifiers provided as part of the scikit-learn (sklearn) machine learning module, as well as with some of its preprocessing and model evaluation capabilities
 
 Multiple_linear_regression - Experiment with multiple linear regression models to make predictions with numerical data. Exploring more systematic methods for feature selection and for optimizing model parameters (model selection).
+
+Automatic_document_clustering - Using Pandas and other modules from scikit-learn for preprocessing or evaluation. Perform clustering on the documents and comparing the clusters to the actual categories.
