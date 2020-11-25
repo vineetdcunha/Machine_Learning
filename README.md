@@ -8,3 +8,5 @@ KNN_without_scikit - Without scikit functions creating own KNN classifer. Parame
 Data_Analysis_Predictive_Modeling_Census_data - Data Analysis and Predictive Modeling on Census data. Scikit-learn to build classifiers usinng Naive Bayes (Gaussian), decision tree (using "gini" as selection criteria), and linear discriminant analysis (LDA)
 
 Classification_using_scikit-learn - Classification using scikit-learn. Various classifiers provided as part of the scikit-learn (sklearn) machine learning module, as well as with some of its preprocessing and model evaluation capabilities
+
+Multiple_linear_regression - Experiment with multiple linear regression models to make predictions with numerical data. Exploring more systematic methods for feature selection and for optimizing model parameters (model selection).
